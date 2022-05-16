@@ -1,0 +1,36 @@
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.Properties.Resources.resources
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.GenerateResource.cache
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.CoreCompileInputs.cache
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\bin\Debug\BookStoreDATA.dll
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\bin\Debug\BookStoreDATA.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.dll
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.AssemblyReference.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.pdb
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.AssemblyReference.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.Properties.Resources.resources
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.GenerateResource.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csprojAssemblyReference.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.Properties.Resources.resources
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.GenerateResource.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll.config
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\bin\Debug\BookStoreDATA.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.AssemblyReference.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.Properties.Resources.resources
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.GenerateResource.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.csproj.CoreCompileInputs.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\BookStoreDATA\obj\Debug\BookStoreDATA.pdb

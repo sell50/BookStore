@@ -1,0 +1,15 @@
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.dll.config
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csproj.AssemblyReference.cache
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csproj.CopyComplete
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.dll
+C:\Users\Katpa\Desktop\KPLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.pdb

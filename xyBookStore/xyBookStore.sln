@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreGUI", "BookStoreGUI.csproj", "{0E0E3018-1674-4520-A86C-74CA42153C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreLIB", "UnitTestLoginPage\BookStoreLIB.csproj", "{23FDAC7C-22B2-4B79-8D4B-88E0DE79327D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreDATA", "BookStoreDATA\BookStoreDATA.csproj", "{9A38B62C-C99A-47F6-B194-6151F2F6602D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLoginPage", "..\UnitTestLoginPage\UnitTestLoginPage.csproj", "{CD19BFCD-954C-4119-A162-6C39E2A2958A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRegisterDialog", "..\UnitTestRegisterDialog\UnitTestRegisterDialog.csproj", "{CC2CCC09-A9D4-405C-9B3D-26EBAAAF95B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0E3018-1674-4520-A86C-74CA42153C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0E3018-1674-4520-A86C-74CA42153C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0E3018-1674-4520-A86C-74CA42153C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0E3018-1674-4520-A86C-74CA42153C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FDAC7C-22B2-4B79-8D4B-88E0DE79327D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FDAC7C-22B2-4B79-8D4B-88E0DE79327D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FDAC7C-22B2-4B79-8D4B-88E0DE79327D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FDAC7C-22B2-4B79-8D4B-88E0DE79327D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A38B62C-C99A-47F6-B194-6151F2F6602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A38B62C-C99A-47F6-B194-6151F2F6602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A38B62C-C99A-47F6-B194-6151F2F6602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A38B62C-C99A-47F6-B194-6151F2F6602D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD19BFCD-954C-4119-A162-6C39E2A2958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD19BFCD-954C-4119-A162-6C39E2A2958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD19BFCD-954C-4119-A162-6C39E2A2958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD19BFCD-954C-4119-A162-6C39E2A2958A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2CCC09-A9D4-405C-9B3D-26EBAAAF95B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2CCC09-A9D4-405C-9B3D-26EBAAAF95B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2CCC09-A9D4-405C-9B3D-26EBAAAF95B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2CCC09-A9D4-405C-9B3D-26EBAAAF95B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDBF4B4-EDE4-4978-AAC5-2A0383CEC016}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.cspc1.uwindsor.ca/comp4220-1-r-2021f
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BookStoreGUI.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = UnitTestLoginPage\\BookStoreLIB.csproj
+		SccProjectName2 = UnitTestLoginPage
+		SccLocalPath2 = UnitTestLoginPage
+		SccProjectUniqueName3 = BookStoreDATA\\BookStoreDATA.csproj
+		SccProjectName3 = BookStoreDATA
+		SccLocalPath3 = BookStoreDATA
+		SccProjectUniqueName4 = ..\\UnitTestLoginPage\\UnitTestLoginPage.csproj
+		SccProjectName4 = ../UnitTestLoginPage
+		SccLocalPath4 = ..\\UnitTestLoginPage
+		SccProjectUniqueName5 = ..\\UnitTestRegisterDialog\\UnitTestRegisterDialog.csproj
+		SccProjectName5 = ../UnitTestRegisterDialog
+		SccLocalPath5 = ..\\UnitTestRegisterDialog
+	EndGlobalSection
+EndGlobal

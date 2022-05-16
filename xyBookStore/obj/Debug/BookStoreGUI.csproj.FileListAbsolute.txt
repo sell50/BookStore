@@ -1,0 +1,178 @@
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.csproj.AssemblyReference.cache
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\MainWindow.baml
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\LoginDialog.g.cs
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\MainWindow.g.cs
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\App.g.cs
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreGUI.exe.config
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreGUI.exe
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreGUI.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\LoginDialog.baml
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.g.resources
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.exe
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\BookStoreGUI.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\OrderItemDialog.baml
+C:\Users\Katpa\Desktop\KPLoginPage\obj\Debug\OrderItemDialog.g.cs
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreDATA.dll
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreDATA.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\Katpa\Desktop\KPLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreGUI.exe.config
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreGUI.exe
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreGUI.pdb
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreDATA.dll
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreLIB.dll
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreDATA.pdb
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreLIB.pdb
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\bin\Debug\BookStoreLIB.dll.config
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.csproj.AssemblyReference.cache
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\MainWindow.baml
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\OrderItemDialog.baml
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\LoginDialog.g.cs
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\MainWindow.g.cs
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\OrderItemDialog.g.cs
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\App.g.cs
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\LoginDialog.baml
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.g.resources
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.exe
+C:\Users\Katpa\source\Workspaces\AgileF21AX\KPLoginPage\obj\Debug\BookStoreGUI.pdb
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe.config
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.pdb
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.pdb
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.pdb
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll.config
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.AssemblyReference.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\MainWindow.baml
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.baml
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.g.cs
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\MainWindow.g.cs
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.g.cs
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\App.g.cs
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.baml
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.g.resources
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.exe
+C:\Users\Nigel Okoniha\Source\Workspaces\Workspace\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csprojAssemblyReference.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\MainWindow.baml
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.baml
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.g.cs
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\MainWindow.g.cs
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.g.cs
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\App.g.cs
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.exe
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe.config
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll.config
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.pdb
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll.config
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.baml
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.g.resources
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe.config
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.pdb
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.pdb
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll.config
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.pdb
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll.config
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.AssemblyReference.cache
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\MainWindow.baml
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.baml
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.g.cs
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\MainWindow.g.cs
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.g.cs
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\App.g.cs
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.baml
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.g.resources
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.exe
+C:\Users\dsabe\Source\Workspaces\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe.config
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.exe
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreGUI.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreDATA.dll.config
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.pdb
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\bin\Debug\BookStoreLIB.dll.config
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.AssemblyReference.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\MainWindow.baml
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.baml
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\AccountSummaryDialog.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\MainWindow.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\OrderItemDialog.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\Register.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\App.g.cs
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI_MarkupCompile.lref
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\AccountSummaryDialog.baml
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\LoginDialog.baml
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\Register.baml
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.g.resources
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.Properties.Resources.resources
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.GenerateResource.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.csproj.CopyComplete
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.exe
+C:\Users\dariq\Desktop\COMP-4220\Project\AgileF21AX\xyBookStore\obj\Debug\BookStoreGUI.pdb
